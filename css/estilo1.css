@@ -1,0 +1,23 @@
+body {
+    background-color: rebeccapurple;
+}
+h1{
+    color: rgb(16, 100, 209);
+
+}
+h2{
+    font-family: Impact;
+}
+p{
+    background-color: yellow;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.uno{
+    background-color: chocolate;
+    font-family: Georgia;
+    font-size: 30px;
+     
+}
